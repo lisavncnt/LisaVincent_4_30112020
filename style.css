@@ -778,16 +778,6 @@ h4 {
     color: #F3976C!important;
 }
 
-.btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
-}
-
-.btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
-}
-
 .ltc-white {
     color: #FFFFFF!important;
 }
@@ -822,7 +812,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation-min.jpg");
 }
 
 @media (max-width: 1024px) {
