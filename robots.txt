@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /fonts
+Disallow: /includes
+
+Sitemap: http://la-chouette-agence.com/sitemap.xml

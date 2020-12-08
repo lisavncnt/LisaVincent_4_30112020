@@ -692,8 +692,8 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
-    background-color: #525252;
+    color: #373737;
+    background-color: #F3976C;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -814,6 +814,13 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation-min.jpg");
+}
+
+.sitemap {
+    width: 90%;
+    height: 65%;
+    border: 1px solid black;
+    margin: 15px;
 }
 
 @media (max-width: 1024px) {
