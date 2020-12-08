@@ -742,6 +742,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 320px;
+    height: 280px;
 }
 
 .portfolio-row {
@@ -820,7 +822,18 @@ h4 {
     width: 90%;
     height: 65%;
     border: 1px solid black;
-    margin: 15px;
+    margin: 5%;
+}
+
+.localisation {
+    width: 96%;
+    float: left;
+    text-align: center;
+    margin: 4px 2%;
+}
+
+label {
+    width: 100%;
 }
 
 @media (max-width: 1024px) {
